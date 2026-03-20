@@ -12,7 +12,7 @@ This app is made for personal and for fun purpose and also it is coming error wh
 ```bash
 git clone https://github.com/Phurbasherpa13/music-instrument.git 
 cd music-instrument
-pip install requirment.txt
+pip install -r requirment.txt
 python music.py
 ```
 # Author 
