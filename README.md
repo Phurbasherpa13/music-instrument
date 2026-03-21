@@ -19,6 +19,10 @@ python music.py
 - Phurba Sherpa
 
 This app is for fun you can use it and also improve it.
-Insert cords or keys  in READme for instruction.
+## Chordes 
+- take me home country roads: 
+1 1 2 1 -- 2 1 2 4 -- 5 5 6 5 -- 2 2 2 1 2 4 -- 1 1 2 1 --  1 2 4 5 6 6 -- 5 5 5 5 6 5 -- 1 2 4 4 5 4 -- 
+
+(main part -->) 4 5 6 -- 6 4 5  -- 6 5 4 -- 6 8 9 -- 9 6 8 6 -- 6 4 5 6 -- 6 5 4 -- 4 4 5 4
 
 **ThankYou**
